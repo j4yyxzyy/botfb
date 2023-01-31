@@ -1,2 +1,0 @@
-# botfb
-Mesengger Bot Facebook
